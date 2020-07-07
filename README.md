@@ -47,9 +47,9 @@ P.S. [stat文件](https://github.com/gaoyifan/china-operator-ip/blob/ip-lists/st
 
 #### 安装依赖
 
-* [bgptools](https://github.com/gaoyifan/bgptools) (`cargo install bgptools `)
-* [bgpdump](https://bitbucket.org/ripencc/bgpdump-hg/wiki/Home) (`apt install bgpdump`)
-* [cidr-merger](https://github.com/zhanhb/cidr-merger) (`go get github.com/zhanhb/cidr-merger`)
+* [bgptools](https://github.com/gaoyifan/bgptools) (`cargo install bgptools `) (安runst环境：https://zhuanlan.zhihu.com/p/111873736)
+* [bgpdump](https://bitbucket.org/ripencc/bgpdump-hg/wiki/Home) (`apt install bgpdump`) （yum install bgpdump -y）
+* [cidr-merger](https://github.com/zhanhb/cidr-merger) (`go get github.com/zhanhb/cidr-merger`)  (安装部署go环境：https://zhuanlan.zhihu.com/p/111873736)
 
 #### 生成IP列表
 
